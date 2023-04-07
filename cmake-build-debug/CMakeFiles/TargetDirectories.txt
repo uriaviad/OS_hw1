@@ -1,0 +1,3 @@
+C:/Projects/Uni_Projects/operating_systems_hw1/cmake-build-debug/CMakeFiles/operating_systems_hw1.dir
+C:/Projects/Uni_Projects/operating_systems_hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Uni_Projects/operating_systems_hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
